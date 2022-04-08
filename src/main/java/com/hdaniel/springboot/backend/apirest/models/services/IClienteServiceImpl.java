@@ -9,6 +9,9 @@ import org.springframework.transaction.annotation.Transactional;
 import com.hdaniel.springboot.backend.apirest.model.entity.Cliente;
 import com.hdaniel.springboot.backend.apirest.models.dao.IClienteDao;
 
+/*
+Documentacion de prueba para analisis de sonarqube
+*/
 @Service
 public class IClienteServiceImpl implements IClienteService{
 	
